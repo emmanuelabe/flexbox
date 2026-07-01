@@ -1,0 +1,21 @@
+.contenedor{
+    display:flex;
+    flex-flow: row wrap;
+    background-color: #2c6797ad;
+    gap:10px;
+    padding: 10px;
+    height: 300px;
+    
+}
+
+.item{
+    background-color: #78c7d1;
+    color:white;
+    font-size: 1.5rem;
+    width: 100px;
+    height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:8px;
+}
