@@ -1,0 +1,17 @@
+.contenedor{
+    display:flex;
+    /*cambia direccion principal */
+    flex-direction :column; 
+    background-color: #f1f1f1;
+    padding:10px;
+    height:200px;
+}
+
+.caja{
+    background-color: rgb(124, 123, 224) ;
+    color:white;
+    font-size: 1.5rem;
+    padding: 20px;
+    margin:5px;
+    border-radius: 8px;
+}

@@ -1,0 +1,18 @@
+.contenedor{
+    display:flex;
+    align-items: baseline;
+    background-color: #c8e6c9;
+    height: 200px;
+}
+
+.caja{
+    background-color: #cb3dee;
+    color:white;
+    padding: 10px;
+    margin:5px;
+    width: 60px;
+}
+
+.alto{
+    height: 100px;
+}

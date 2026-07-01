@@ -1,0 +1,19 @@
+.contenedor{
+    display:flex;
+    align-items: center;
+    background-color: #8ee491;
+    height: 200px;
+}
+
+.caja{
+    background-color: #fd8656;
+    color:white;
+    padding: 20px;
+    margin:10px;
+    border-radius:8px;
+}
+
+.especial{
+    align-self: stretch;
+    background-color:#e65100;
+}
